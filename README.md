@@ -3,14 +3,23 @@
   <a href="https://linkedin.com/in/shreyas-jena">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/jena_shreyas_22">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="mailto:jenashreyas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://x.com/jena_shreyas_22">
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fjena_shreyas_22" alt="Twitter Badge"/>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jena-shreyas&theme=dracula&size_weight=0.5&count_weight=0.5&layout=donut&exclude_repo=STIC,jena-shreyas.github.io,AutoGPS)
+
+  
 <!--
 **jena-shreyas/jena-shreyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jena-shreyas&theme=tokyonight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jena-shreyas&repo=firecrawl)](https://github.com/jena-shreyas/firecrawl)
+![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jena-shreyas&show_icons=true&theme=radical)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:test@test.com)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fjena_shreyas_22)
 
 Here are some ideas to get you started:
 
