@@ -2,8 +2,10 @@
 
 I'm in my final year of the Dual Degree program in Computer Science and Engineering at IIT Kharagpur 🎓. My passions broadly lie in Software Development and Machine Learning — constantly exploring how to blend innovation with real-world applications 🔭
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jena-shreyas&theme=dracula&size_weight=0.5&count_weight=0.5&layout=donut&hide=Jupyter&exclude_repo=STIC,jena-shreyas.github.io,AutoGPS)
+
 📫 Feel free to reach out via Gmail for formal inquiries, or connect on LinkedIn or Twitter for casual conversations! Let's chat! 🙌
-  
+
 <div id="badges">
   <a href="https://linkedin.com/in/shreyas-jena">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,8 +19,6 @@ I'm in my final year of the Dual Degree program in Computer Science and Engineer
   
 <!--
 **jena-shreyas/jena-shreyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jena-shreyas&theme=dracula&size_weight=0.5&count_weight=0.5&layout=donut&hide=Jupyter&exclude_repo=STIC,jena-shreyas.github.io,AutoGPS)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jena-shreyas&repo=firecrawl)](https://github.com/jena-shreyas/firecrawl)
 ![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jena-shreyas&show_icons=true&theme=radical)
