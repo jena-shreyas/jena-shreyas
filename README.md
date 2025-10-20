@@ -1,6 +1,6 @@
 ## Hey there, I'm Shreyas 👋
 
-I'm in my final year of the Dual Degree program in Computer Science and Engineering at IIT Kharagpur 🎓. My passions broadly lie in Software Development and Machine Learning — constantly exploring how to blend innovation with real-world applications 🔭
+I'm a GPU Systems Engineer at Qualcomm India. Previously, I graduated with a Dual Degree (B.Tech+M.Tech) in Computer Science and Engineering from IIT Kharagpur 🎓. My passions broadly lie in Software Development and Machine Learning — constantly exploring how to blend innovation with real-world applications 🔭
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jena-shreyas&theme=dracula&size_weight=0.5&count_weight=0.5&layout=donut&hide=Jupyter&exclude_repo=STIC,jena-shreyas.github.io,AutoGPS)
 
