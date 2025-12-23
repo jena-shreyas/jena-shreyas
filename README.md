@@ -2,7 +2,7 @@
 
 I'm a GPU Systems Engineer at Qualcomm India. Previously, I graduated with a Dual Degree (B.Tech+M.Tech) in Computer Science and Engineering from IIT Kharagpur 🎓. My passions broadly lie in Software Development and Machine Learning — constantly exploring how to blend innovation with real-world applications 🔭
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jena-shreyas&theme=dracula&size_weight=0.5&count_weight=0.5&layout=donut&hide=Jupyter&exclude_repo=STIC,jena-shreyas.github.io,AutoGPS)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jena-shreyas&theme=dracula&size_weight=0.5&count_weight=0.5&layout=donut&hide=Jupyter&exclude_repo=STIC,jena-shreyas.github.io,AutoGPS)-->
 
 📫 Feel free to reach out via Gmail for formal inquiries, or connect on LinkedIn or Twitter for casual conversations! Let's chat! 🙌
 
